@@ -47,12 +47,12 @@ header {
 .cards{
     display: flex;
     background-color: #5C6BC0;
-    border-radius: 20px;
     justify-content: center;
     align-content: center;
     align-items: center;
+    border-radius: 20px;
     padding: .5em;
-    font-size: 50px;
+    font-size: 70px;
     aspect-ratio: 1;
     text-align: center;
     border: 1px solid #FFFFFF;
@@ -68,7 +68,7 @@ header {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, .9);
+    background-color: rgba(0, 0, 0, .8);
     justify-content: center;
     align-items: center;
     color: #ffffff;
